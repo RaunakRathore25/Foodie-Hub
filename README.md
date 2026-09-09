@@ -1,6 +1,6 @@
 # Foodie-Hub — Food Delivery System
 
-Full-stack Zomato-style food ordering app built with MongoDB, Express, React and Node.js.
+A full-stack food delivery web application built using MongoDB, Express.js, React.js and Node.js.
 
 ## Features
 
