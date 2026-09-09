@@ -1,4 +1,4 @@
-# Zomato Clone (MERN)
+# Foodie-Hub — Food Delivery System
 
 Full-stack Zomato-style food ordering app built with MongoDB, Express, React and Node.js.
 
